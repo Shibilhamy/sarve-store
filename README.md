@@ -1,0 +1,2 @@
+# sarve-store
+django
